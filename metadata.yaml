@@ -1,4 +1,8 @@
 _repo: Harmaan-karhun-elamantarina_50563
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seton, Ernest Thompson
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/535
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50563#Harmaan-karhun-elamantarina
 gutenberg_issued: '2015-11-27'
 gutenberg_type: Text
 identifiers:
